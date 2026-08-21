@@ -1,0 +1,29 @@
+{
+  "repo": "xero-cloud-accounting-platform",
+  "product": "Xero Cloud Accounting Platform",
+  "kind": "finance",
+  "install_type": "nexpath",
+  "install_url": "https://xero.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "finance",
+  "topics": [
+    "xero",
+    "cloud-accounting",
+    "bookkeeping",
+    "invoicing",
+    "small-business-finance",
+    "payroll-tools",
+    "financial-reporting",
+    "business-accounting",
+    "xero-setup-failed-fix",
+    "how-to-install-xero",
+    "xero-windows",
+    "finance-tools",
+    "windows-tools",
+    "business-utility"
+  ],
+  "stars_cache": 23,
+  "nexpath_slug": "xero",
+  "nexpath_app_name": "Xero"
+}
